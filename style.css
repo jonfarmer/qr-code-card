@@ -1,6 +1,6 @@
 /*1. Global*/
-/*2. Selectors*/
-/*3. Categories*/
+/*2. Elements*/
+/*3. Classes*/
 
 
 
@@ -11,7 +11,7 @@ body {
 
 
 
-/*2. Selectors*/
+/*2. Elements*/
 h2 {
     font-family: "Outfit", sans-serif;
     font-weight: 700;
@@ -29,11 +29,12 @@ p {
 }
 
 
-/*3. Categories*/
+/*3. Classes*/
 .container {
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 100vh;
 }
 
 .qr-code-card {
